@@ -53,7 +53,7 @@
 <v t="leo.20170710101854.1"><vh>@edit article.html</vh></v>
 </v>
 </v>
-<v t="leo.20170710015511.1"><vh>編輯 plugin</vh>
+<v t="leo.20170710015511.1" a="E"><vh>編輯 plugin</vh>
 <v t="leo.20170710015523.1" a="E"><vh>@path plugin</vh>
 <v t="leo.20170710015523.2" a="E"><vh>@path tipue_search</vh>
 <v t="leo.20170710015523.3"><vh>@edit tipue_search.py</vh></v>
@@ -63,9 +63,6 @@
 <v t="yen.20170108171733.71" a="E"><vh>@path markdown</vh>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
-<v t="leo.20181005110908.1"><vh>@edit pages_2.md</vh></v>
-<v t="leo.20181005110927.1"><vh>@edit pages_3.md</vh></v>
-<v t="leo.20181005110924.1"><vh>@edit pages_4.md</vh></v>
 </v>
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
